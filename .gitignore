@@ -1,0 +1,8 @@
+# Node modules directory
+node_modules/
+
+# Docker database data
+db_data/
+
+# Built CSS file
+main.css
